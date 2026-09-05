@@ -37,8 +37,12 @@ Tengo experiencia en el diseño y desarrollo de **aplicaciones web y móviles**,
 - 🖥 **Infraestructura y administración de sistemas** (Windows Server, SQL Server, PowerShell)
 
 ### 🌱 Actualmente explorando:
-- **Rust** para sistemas de mayor rendimiento
-- **Arquitecturas hexagonales** y patrones DDD aplicados a Node.js/TypeScript
+- ☕ **Java**, reforzando fundamentos y buenas prácticas del lenguaje
+- 🖥 **PowerShell y Bash**, para automatización y administración de sistemas
+- 🔎 **RAG (Retrieval-Augmented Generation)**, búsqueda híbrida y recuperación de información aplicada a IA
+- 🤖 **Agentes de IA**, diseño y orquestación de flujos multiagente
+- 🏗 **Arquitectura de software**, profundizando en patrones y estilos más allá de Clean Architecture
+- ☁️ **AWS**, servicios cloud y despliegue de soluciones escalables
 
 ### 👯 Abierto a colaborar en:
 - Proyectos open-source, especialmente en **backend, automatización e IA aplicada**
